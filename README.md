@@ -6,4 +6,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (2) Remove Duplicates from Sorted Array : https://leetcode.com/problems/remove-duplicates-from-sorted-array/  
 (3) Container With Most Water : https://leetcode.com/problems/container-with-most-water/  
 (4) 3Sum : https://leetcode.com/problems/3sum/  
-(5) Valid Anagram : https://leetcode.com/problems/valid-anagram/
+(5) Valid Anagram : https://leetcode.com/problems/valid-anagram/  
+(6) Fizz Buzz : https://leetcode.com/problems/fizz-buzz/
