@@ -8,4 +8,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (4) 3Sum : https://leetcode.com/problems/3sum/  
 (5) Valid Anagram : https://leetcode.com/problems/valid-anagram/  
 (6) Fizz Buzz : https://leetcode.com/problems/fizz-buzz/  
-(7) Permutations : https://leetcode.com/problems/permutations/
+(7) Permutations : https://leetcode.com/problems/permutations/  
+(8) Permutations II : https://leetcode.com/problems/permutations-ii/
