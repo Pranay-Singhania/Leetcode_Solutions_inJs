@@ -7,4 +7,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (3) Container With Most Water : https://leetcode.com/problems/container-with-most-water/  
 (4) 3Sum : https://leetcode.com/problems/3sum/  
 (5) Valid Anagram : https://leetcode.com/problems/valid-anagram/  
-(6) Fizz Buzz : https://leetcode.com/problems/fizz-buzz/
+(6) Fizz Buzz : https://leetcode.com/problems/fizz-buzz/  
+(7) Permutations : https://leetcode.com/problems/permutations/
