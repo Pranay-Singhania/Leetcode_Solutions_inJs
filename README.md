@@ -11,4 +11,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (7) Permutations : https://leetcode.com/problems/permutations/  
 (8) Permutations II : https://leetcode.com/problems/permutations-ii/  
 (9) First Unique Character in a String : https://leetcode.com/problems/first-unique-character-in-a-string/  
-(10) Happy Number : https://leetcode.com/problems/happy-number/
+(10) Happy Number : https://leetcode.com/problems/happy-number/  
+(11) Majority Element : https://leetcode.com/problems/majority-element/
