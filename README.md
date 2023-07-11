@@ -14,4 +14,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (10) Happy Number : https://leetcode.com/problems/happy-number/  
 (11) Majority Element : https://leetcode.com/problems/majority-element/  
 (12) Pascal's Triangle : https://leetcode.com/problems/pascals-triangle/  
-(13) Missing Number : https://leetcode.com/problems/missing-number/
+(13) Missing Number : https://leetcode.com/problems/missing-number/  
+(14) Best Time to Buy and Sell Stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
