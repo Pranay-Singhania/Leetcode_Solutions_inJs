@@ -19,4 +19,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (15) Valid Parentheses : https://leetcode.com/problems/valid-parentheses/  
 (16) Move Zeroes : https://leetcode.com/problems/move-zeroes/  
 (17) Debounce : https://leetcode.com/problems/debounce/  
-(18) Contains Duplicates : https://leetcode.com/problems/contains-duplicate/
+(18) Contains Duplicates : https://leetcode.com/problems/contains-duplicate/  
+(19) Search Insert Position : https://leetcode.com/problems/search-insert-position/
