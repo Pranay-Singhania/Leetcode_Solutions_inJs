@@ -20,4 +20,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (16) Move Zeroes : https://leetcode.com/problems/move-zeroes/  
 (17) Debounce : https://leetcode.com/problems/debounce/  
 (18) Contains Duplicates : https://leetcode.com/problems/contains-duplicate/  
-(19) Search Insert Position : https://leetcode.com/problems/search-insert-position/
+(19) Search Insert Position : https://leetcode.com/problems/search-insert-position/  
+(20) Power of Three : https://leetcode.com/problems/power-of-three/
