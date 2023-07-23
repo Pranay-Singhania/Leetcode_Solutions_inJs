@@ -22,4 +22,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (18) Contains Duplicates : https://leetcode.com/problems/contains-duplicate/  
 (19) Search Insert Position : https://leetcode.com/problems/search-insert-position/  
 (20) Power of Three : https://leetcode.com/problems/power-of-three/  
-(21) Count Number of Pairs With Absolute Difference K : https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+(21) Count Number of Pairs With Absolute Difference K : https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/  
+(22) Minimum Bit Flips to Convert Number : https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
