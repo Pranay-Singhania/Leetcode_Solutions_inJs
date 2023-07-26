@@ -25,4 +25,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (21) Count Number of Pairs With Absolute Difference K : https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/  
 (22) Minimum Bit Flips to Convert Number : https://leetcode.com/problems/minimum-bit-flips-to-convert-number/  
 (23) Find The Original Array of Prefix Xor : https://leetcode.com/problems/find-the-original-array-of-prefix-xor/  
-(24) Minimum Operations to Make Array Equal : https://leetcode.com/problems/minimum-operations-to-make-array-equal/
+(24) Minimum Operations to Make Array Equal : https://leetcode.com/problems/minimum-operations-to-make-array-equal/  
+(25) Number of Laser Beams in a Bank : https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
