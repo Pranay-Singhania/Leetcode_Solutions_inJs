@@ -29,3 +29,4 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (25) Number of Laser Beams in a Bank : https://leetcode.com/problems/number-of-laser-beams-in-a-bank/  
 (26) 3Sum Closest : https://leetcode.com/problems/3sum-closest/  
 (27) Search a 2D Matrix : https://leetcode.com/problems/search-a-2d-matrix/
+(28) Add Two Numbers : https://leetcode.com/problems/add-two-numbers/description/
