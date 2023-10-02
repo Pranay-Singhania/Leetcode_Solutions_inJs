@@ -30,3 +30,4 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (26) 3Sum Closest : https://leetcode.com/problems/3sum-closest/  
 (27) Search a 2D Matrix : https://leetcode.com/problems/search-a-2d-matrix/
 (28) Add Two Numbers : https://leetcode.com/problems/add-two-numbers/description/
+(29) Remove Nth Node From End of List : https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
