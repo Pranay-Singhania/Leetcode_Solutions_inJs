@@ -34,4 +34,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (30) Remove Colored Pieces if Both Neighbors are the Same Color : https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/  
 (31) Merge Two Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/  
 (32) Swap Nodes in Pairs : https://leetcode.com/problems/swap-nodes-in-pairs/  
-(33) Rotate List : https://leetcode.com/problems/rotate-list/
+(33) Rotate List : https://leetcode.com/problems/rotate-list/  
+(34) Number of Good Pairs : https://leetcode.com/problems/number-of-good-pairs/
