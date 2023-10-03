@@ -35,4 +35,5 @@ Solving Leetcode problems in Javascript in an optimal way (reduced time complexi
 (31) Merge Two Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/  
 (32) Swap Nodes in Pairs : https://leetcode.com/problems/swap-nodes-in-pairs/  
 (33) Rotate List : https://leetcode.com/problems/rotate-list/  
-(34) Number of Good Pairs : https://leetcode.com/problems/number-of-good-pairs/
+(34) Number of Good Pairs : https://leetcode.com/problems/number-of-good-pairs/  
+(35) Remove Duplicates from Sorted List II : https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
